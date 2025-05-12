@@ -27,8 +27,8 @@ class Producto {
   }
   
   // Crear dos productos
-  const producto1 = new Producto("Laptop", 1500, 10);
-  const producto2 = new Producto("Mouse", 25, 50);
+  const producto1 = new Producto("monitor", 1500, 10);
+  const producto2 = new Producto("adaptador wifi", 25, 50);
   
   // Mostrar información inicial
   producto1.mostrarInfo();
